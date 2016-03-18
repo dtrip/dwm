@@ -1,0 +1,7 @@
+*.sw[op]
+*.deb
+*~
+*.o
+
+dwm
+description-pak
